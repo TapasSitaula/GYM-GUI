@@ -1,2 +1,1 @@
-# learning
-just for fun
+#My first year project on Gym - Gui
